@@ -1,0 +1,3 @@
+[submodule "FutureCVE-Dataset/CVE-2025-3248/vuln_info/source_code"]
+	path = FutureCVE-Dataset/CVE-2025-3248/vuln_info/source_code
+	url = https://github.com/langflow-ai/langflow.git
